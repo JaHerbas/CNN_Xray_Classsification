@@ -1,6 +1,7 @@
-<font size="5"><b>Pneumonia Detection from X-ray images using Deep Learning Neural Network</b></font>
-
 ![Figure_1](img/Figure_1.png)
+
+<font size="7"><b>Pneumonia Detection from X-ray images using Deep Learning Neural Network</b></font>
+
 
 # Summary
 
