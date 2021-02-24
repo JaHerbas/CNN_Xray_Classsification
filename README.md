@@ -1,4 +1,5 @@
-# Pneumonia Detection from X-ray images using Deep Learning Neural Network
+# Pneumonia Detection from X-ray images 
+# Deep Learning Neural Network
 
 ![Figure_1](img/Figure_1.png)
 
